@@ -3,7 +3,7 @@
 //  swiftris
 //
 //  Created by giaunv on 2/28/15.
-//  Copyright (c) 2015. All rights reserved.
+//  Copyright (c) 2015 366. All rights reserved.
 //
 
 import Foundation
@@ -25,12 +25,12 @@ class Array2D<T>{
     }
     
 // #4
-    subscript(column: Int, rows: Int) -> T?{
+    subscript(column: Int, row: Int) -> T?{
         get{
-            return array[(rows*columns) + columns]
+            return array[(row*columns) + column]
         }
         set(newValue){
-            array[(rows*columns) + columns] = newValue
+            array[(row*columns) + column] = newValue
         }
     }
     
