@@ -6,7 +6,6 @@
 //  Copyright (c) 2015 366. All rights reserved.
 //
 
-import Foundation
 class JShape:Shape {
     /*
     

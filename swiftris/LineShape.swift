@@ -6,7 +6,6 @@
 //  Copyright (c) 2015 366. All rights reserved.
 //
 
-import Foundation
 class LineShape:Shape {
     /*
     Orientations 0 and 180:

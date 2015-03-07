@@ -545,6 +545,7 @@
 				9405704D1AA0C1AC00A6BA52 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9405704E1AA0C1AC00A6BA52 /* Build configuration list for PBXNativeTarget "swiftrisTests" */ = {
 			isa = XCConfigurationList;
@@ -553,6 +554,7 @@
 				940570501AA0C1AC00A6BA52 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
